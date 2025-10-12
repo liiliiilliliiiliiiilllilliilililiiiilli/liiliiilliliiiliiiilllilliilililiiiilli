@@ -1,7 +1,5 @@
 * ### Зачем ты вспоминаешь это?
 
-## 🎮 DVD Screensaver
-
 <div align="center">
   <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
     <style>
@@ -25,14 +23,9 @@
   </svg>
 </div>
 
-<!--
-```css
-/* Альтернатива с более сложной анимацией */
 @keyframes dvdBounce {
   0%, 100% { transform: translate(0, 0); }
   25% { transform: translate(280px, 120px); }
   50% { transform: translate(140px, 0); }
   75% { transform: translate(0, 120px); }
 }
-```
--->
