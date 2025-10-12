@@ -1,3 +1,3 @@
 * ### Прикольно
 
-![DVD Logo Bouncing](./dvd-old.gif)
+![DVD Logo Bouncing](./dvd-screensaver-15-min-online-vi.gif)
