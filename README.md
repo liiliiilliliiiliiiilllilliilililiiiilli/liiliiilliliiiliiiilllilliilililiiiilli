@@ -1,3 +1,3 @@
 * ### Прикольно
 
-![DVD Logo Bouncing](./dvd.gif)
+![DVD Logo Bouncing](./gif/dvd.gif)
