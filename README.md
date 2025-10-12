@@ -1,3 +1,3 @@
 * ### Зачем ты вспоминаешь это?
 
-![DVD Logo Bouncing](https://tenor.com/ru/view/dvd-old-funny-cool-colors-gif-19220202)
+![DVD Logo Bouncing](https://github.com/liiliiilliliiiliiiilllilliilililiiiilli/liiliiilliliiiliiiilllilliilililiiiilli/raw/main/dvd-old.gif)
