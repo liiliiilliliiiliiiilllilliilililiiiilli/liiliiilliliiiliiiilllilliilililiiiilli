@@ -1,3 +1,1 @@
-* ### Прикольно
-
-![DVD Logo Bouncing](./gif/dvd.gif)
+README/README.ru.md
